@@ -1,0 +1,216 @@
+html {
+width: 1440px;
+height: 800px;
+color: white;
+margin: auto;
+font-family: 'Courier New', Courier, monospace;
+    
+background: rgba(209, 92, 92, 0.46);
+}
+
+#background {
+width: 1440px;
+height: 100px;
+
+background: rgba(209, 92, 92, 0.46);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.navigation h1 {
+margin: auto;
+width: 290px;
+height: 87px;
+
+font-size: 72px;
+line-height: 87px;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+}
+
+.navigation1{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.navigation h3 {
+font-size: 26px;
+line-height: 31px;
+margin: 36px;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 1);
+}
+
+.content {
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75)
+}
+
+h3 {
+font-size: 26px;
+line-height: 36px;
+margin: 0px;
+}
+
+p {
+font-size: 14px;
+line-height: 17.5px;
+margin: 0px;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75)
+}
+
+img {
+filter: saturate(1.25) drop-shadow(0px 0px 2px black);
+}
+
+a {
+color: white;
+}
+
+
+
+
+.group1 {
+width: 540px;
+height: 437px;
+position: absolute;
+left: 418px;
+top:  229px;
+}
+
+.group1 img{
+width: 540px;
+height: 437px;
+}
+
+#background1 {
+width: 540px;
+height: 97px;
+position: absolute;
+bottom: 0;
+
+background: rgba(50, 50, 50, 0.75);    
+}
+
+#background1 h3 {   
+position: absolute;
+left: 53px;
+top: 4px;   
+}
+
+#background1 p {   
+position: absolute;
+left: 53px;
+top: 45px;   
+}
+
+
+
+
+.group2 {
+width: 260px;
+height: 219px;
+position: absolute;
+left: 978px;
+top:  229px;
+}
+
+.group2 img{
+width: 260px;
+height: 219px;
+}
+
+#background2 {
+width: 260px;
+height: 72px;
+position: absolute;
+bottom: 0;
+    
+background: rgba(50, 50, 50, 0.75);    
+}
+    
+#background2 h3 {   
+position: absolute;
+left: 18px;
+top: 0px;   
+}
+    
+#background2 p {   
+position: absolute;
+left: 18px;
+top: 30px;   
+}
+
+
+
+
+.group3 {
+width: 260px;
+height: 219px;
+position: absolute;
+left: 1258px;
+top:  229px;
+}
+
+.group3 img{
+width: 260px;
+height: 219px;
+}
+
+#background3 {
+width: 260px;
+height: 72px;
+position: absolute;
+bottom: 0;
+        
+background: rgba(50, 50, 50, 0.75);    
+}
+        
+#background3 h3 {   
+position: absolute;
+left: 18px;
+top: 0px;   
+}
+        
+#background3 p {   
+position: absolute;
+left: 18px;
+top: 30px;   
+}
+
+
+
+
+.group4 {
+width: 540px;
+height: 199px;
+position: absolute;
+left: 978px;
+top:  467px;
+}
+
+.group4 img{
+width: 540px;
+height: 199px;
+}
+
+#background4 {
+width: 540px;
+height: 97px;
+position: absolute;
+bottom: 0;
+            
+background: rgba(50, 50, 50, 0.75);    
+}
+            
+#background4 h3 {   
+position: absolute;
+left: 53px;
+top: 4px;   
+}
+            
+#background4 p {   
+position: absolute;
+left: 53px;
+top: 45px;   
+}
