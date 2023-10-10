@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    background-size: 100% auto;
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
+a:link {
+    color: red;
+    font-size: 0.75cm;
+}
+
+a:visited {
+    color: blue;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+br {
+    height: 1.8cm;
+}
+
+h3 {
+    color: yellow;
+}
